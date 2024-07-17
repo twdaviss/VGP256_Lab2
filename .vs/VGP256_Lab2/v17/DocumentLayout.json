@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7912FA70-D4D4-4208-B4F8-0ED052DF1ED4}|TMath\\TMath.vcxproj|C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7912FA70-D4D4-4208-B4F8-0ED052DF1ED4}|TMath\\TMath.vcxproj|solutionrelative:TMath\\TMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7912FA70-D4D4-4208-B4F8-0ED052DF1ED4}|TMath\\TMath.vcxproj|C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7912FA70-D4D4-4208-B4F8-0ED052DF1ED4}|TMath\\TMath.vcxproj|solutionrelative:TMath\\TMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2AC125-D108-470E-A76E-8AC5E0FF9F73}|ForcesAndAccleration\\ForcesAndAccleration.vcxproj|C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\ForcesAndAccleration\\ForcesAndAccleration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE2AC125-D108-470E-A76E-8AC5E0FF9F73}|ForcesAndAccleration\\ForcesAndAccleration.vcxproj|solutionrelative:ForcesAndAccleration\\ForcesAndAccleration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68D0C-35DA-46AE-B0C7-90A11FD10556}|Polynomial\\Polynomial.vcxproj|C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8E68D0C-35DA-46AE-B0C7-90A11FD10556}|Polynomial\\Polynomial.vcxproj|solutionrelative:Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMath.cpp",
+              "DocumentMoniker": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.cpp",
+              "RelativeDocumentMoniker": "TMath\\TMath.cpp",
+              "ToolTip": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.cpp",
+              "RelativeToolTip": "TMath\\TMath.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T00:27:41.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TMath.h",
+              "DocumentMoniker": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.h",
+              "RelativeDocumentMoniker": "TMath\\TMath.h",
+              "ToolTip": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\TMath\\TMath.h",
+              "RelativeToolTip": "TMath\\TMath.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T00:10:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForcesAndAccleration.cpp",
+              "DocumentMoniker": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\ForcesAndAccleration\\ForcesAndAccleration.cpp",
+              "RelativeDocumentMoniker": "ForcesAndAccleration\\ForcesAndAccleration.cpp",
+              "ToolTip": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\ForcesAndAccleration\\ForcesAndAccleration.cpp",
+              "RelativeToolTip": "ForcesAndAccleration\\ForcesAndAccleration.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBsAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T23:58:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\Polynomial\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "Polynomial\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\taylo\\OneDrive\\Documents\\GitHub\\VGP256_Lab2\\Polynomial\\Polynomial.cpp",
+              "RelativeToolTip": "Polynomial\\Polynomial.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T23:50:03.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

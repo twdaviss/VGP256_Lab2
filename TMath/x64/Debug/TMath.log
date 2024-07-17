@@ -1,0 +1,14 @@
+﻿  TMath.cpp
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(16,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(17,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(18,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(69,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(77,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(14,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(52,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(55,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(65,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(75,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.cpp(78,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TMath.vcxproj -> C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\x64\Debug\TMath.lib

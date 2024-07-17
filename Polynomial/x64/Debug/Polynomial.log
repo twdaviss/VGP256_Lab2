@@ -1,0 +1,4 @@
+﻿  Polynomial.cpp
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(16,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\TMath\TMath.h(62,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Polynomial.vcxproj -> C:\Users\taylo\OneDrive\Documents\GitHub\VGP256_Lab2\x64\Debug\Polynomial.exe
